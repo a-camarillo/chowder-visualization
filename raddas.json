@@ -1,0 +1,156 @@
+{
+    "seasons":
+    {
+        "season_one":
+        [{
+            "ep1":{
+                "tfact": 24,
+                "chowders_gf": 8},
+            "ep2":{
+                "burple_nurples": 6,
+                "shnitzel_deposit": 80},
+            "ep3":{
+                "grubble_gum": 9,
+                "cinnamini": 23},
+            "ep4":{
+                "certifrycation": 11,
+                "sing_beans": 32},
+            "ep5":{
+                "wrong_address": 2,
+                "wrong_customer": 125},
+            "ep6":{
+                "mahjonng_night": 4,
+                "stinky_love": 13},
+            "ep7":{
+                "thrice_cream": 6,
+                "flibber_flabber": 8},
+            "ep8":{
+                "gazpacho_standup": 7,
+                "taste_marzipan": 25},
+            "ep9":{
+                "puckerberry": 14,
+                "elemelons": 3},
+            "ep10":{
+                "sniffleball": 2,
+                "mung_rocks": 16},
+            "ep11":{
+                "heavy_sleeper": 79,
+                "moldy_touch": 18},
+            "ep12":{
+                "your_service": 0,
+                "chowder_fugu": 18},
+            "ep13":{
+                "vacation": 23,
+                "sleep_eater": 33},
+            "ep14":{
+                "brusied_bluenana": 4,
+                "shnitzel_farfel": 41},
+            "ep15":{
+                "thousand_poundcake": 37,
+                "rat_sandwich": 10},
+            "ep16":{
+                "chowder_hat": 4,
+                "brain_grub": 11},
+            "ep17":{
+                "shnitzel_quits": 134},
+            "ep18":{
+                "broken_part": 18,
+                "meach_harvest": 26},
+            "ep19":{
+                "banned_stand":0,
+                "creme_puff": 16},
+            "ep20":{
+                "apprentice_games": 0}
+        }],
+        "season_two":
+        [{
+            "ep21":{
+                "the_arborians": 10, 
+                "garage_sale": 32},
+            "ep22":{
+                "panini_president": 0,
+                "chowder_babysitter": 0},
+            "ep23":{
+                "fire_breather": 33, 
+                "flinger_lingons": 8},
+            "ep24":{
+                "knishmas": 121 },
+            "ep25":{
+                "chowders_catering": 19 , 
+                "catch_phrase": 2 },
+            "ep26":{
+                "hot_date": 34 , 
+                "shopping_spree": 21 },
+            "ep27":{
+                "party_cruise": 3 , 
+                "wonton_bombs": 6 },
+            "ep28":{
+                "big_hat": 3 , 
+                "deadly_maze": 0 },
+            "ep29":{
+                "kid_shnitzel": 68 , 
+                "gazpacho_fights": 1 },
+            "ep30":{
+                "BLT": 3 , 
+                "trouble_truffles": 35 },
+            "ep31":{
+                "dinner_theater": 29 },
+            "ep32":{
+                "big_ball": 22 , 
+                "brain_freeze": 5 },
+            "ep33":{
+                "snail_car": 12 , 
+                "lollistops": 0 },
+            "ep34":{
+                "endive_secret": 17 , 
+                "big_food": 17 },
+            "ep35":{
+                "paint_town": 31 , 
+                "blackout": 1 },
+            "ep36":{
+                "dice_cycle": 0 , 
+                "chain_recipe": 19 },
+            "ep37":{
+                "the_garden": 4 , 
+                "sheboodles": 2 },
+            "ep38":{
+                "gazpacho_moves": 16 , 
+                "stinky_wedding": 1 },
+            "ep39":{
+                "apprentice_appreciation": 39 , 
+                "grape_worm": 1 },
+            "ep40":{
+                "faire_remember": 0 , 
+                "tofu_showdown": 60 }
+        }],
+        "season_three":
+        [{
+            "ep41":{
+                "big_mixer": 5, 
+                "blast_raz": 36 },
+            "ep42":{
+                "spookiest_house": 11, 
+                "poultry_geist": 44 },
+            "ep43":{
+                "apprentice_scouts": 0 , 
+                "slobber_barker": 15 },
+            "ep44":{
+                "little_pizzazz": 42 , 
+                "birthday_suits": 15 },
+            "ep45":{
+                "the_heist": 22 , 
+                "the_prank": 13 },
+            "ep46":{
+                "old_thyme": 0 , 
+                "chowders_magazine": 42 },
+            "ep47":{
+                "weekend_shnitzels": 35 , 
+                "taste_buds": 6 },
+            "ep48":{
+                "gazpacho": 0 , 
+                "the_toots": 5 },
+            "ep49":{
+                "Chowder_GrowsUp": 5}
+        }]
+    }
+}
